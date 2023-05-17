@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafialam12345" target="blank"><img src="https://img.shields.io/twitter/follow/rafialam12345?logo=twitter&style=for-the-badge" alt="rafialam12345" /></a> </p>
 
-- 🔭 I’m currently working on **MEAN stack(MongoDB,Express Js,Angular & Node Js), PHP & Laravel**
+- 🔭 I’m currently working on **MEAN stack(MongoDB,Express Js,Angular & Node Js & Nest Js), PHP & Laravel**
 
 - 🌱 I’m currently learning **Angular , RXJS**
 
