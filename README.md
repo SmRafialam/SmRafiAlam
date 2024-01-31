@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **smrafialam007@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/kcyrzdsntknj#d787a3](https://www.overleaf.com/read/kcyrzdsntknj#d787a3)//[https://flowcv.com/resume/qlw2is0w06](https://flowcv.com/resume/qlw2is0w06)
+- 📄 Know about my experiences [https://www.overleaf.com/read/kcyrzdsntknj#d787a3](https://www.overleaf.com/read/kcyrzdsntknj#d787a3)
 
 - ⚡ Fun fact **Roughly 10% of the world's money is physical.**
 
