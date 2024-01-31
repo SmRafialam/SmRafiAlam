@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MEAN stack(MongoDB,Express Js,Angular & Node Js & Nest Js), PHP & Laravel**
 
-- 🌱 I’m currently learning **RXJS , Docker** , React**
+- 🌱 I’m currently learning **DevOps , Docker** , React**
 
 - 👯 I’m looking to collaborate on **Communicate openly, Open communication with team members and senior leaders has a profound impact on breaking down information silos between developers and operations teams, Select the right tools. ... Write comprehensive documentation. ... Provide fast feedback,Lead effectively.**
 
